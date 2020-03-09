@@ -1,0 +1,266 @@
+.mediaViewInfo {
+	--web-view-name: PorfolioTest1;
+	--web-view-id: PorfolioTest1;
+	--web-scale-on-resize: true;
+	--web-add-image-compare: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: PorfolioTest1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#PorfolioTest1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(20,17,21,1);
+	overflow: hidden;
+	--web-view-name: PorfolioTest1;
+	--web-view-id: PorfolioTest1;
+	--web-scale-on-resize: true;
+	--web-add-image-compare: true;
+	--web-enable-deep-linking: true;
+}
+#loro {
+	position: absolute;
+	width: 1437px;
+	height: 958px;
+	left: 483px;
+	top: 122px;
+	overflow: visible;
+}
+#Portfolio {
+	position: absolute;
+	left: 32px;
+	top: 42px;
+	overflow: visible;
+	width: 210px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#HOME {
+	position: absolute;
+	left: 529px;
+	top: 64px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#ABOUT {
+	position: absolute;
+	left: 709px;
+	top: 64px;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#PROJECTS {
+	position: absolute;
+	left: 901px;
+	top: 64px;
+	overflow: visible;
+	width: 144px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#BLOGS {
+	position: absolute;
+	left: 1134px;
+	top: 64px;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#CONTACT {
+	position: absolute;
+	left: 1319px;
+	top: 64px;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Component_2___1 {
+	position: absolute;
+	width: 60px;
+	height: 56px;
+	left: 1809.5px;
+	top: 28.5px;
+	overflow: visible;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 66.823px;
+	height: 63.311px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 66.823px;
+	height: 63.311px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Miguel_Bastidas {
+	position: absolute;
+	left: 525px;
+	top: 442px;
+	overflow: visible;
+	width: 747px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgba(255,255,255,1);
+}
+#Component_1___1 {
+	position: absolute;
+	width: 173px;
+	height: 61px;
+	left: 815px;
+	top: 607px;
+	overflow: visible;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 61px;
+	left: 0px;
+	top: 0px;
+}
+#Contact_ {
+	position: absolute;
+	left: 27px;
+	top: 8px;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_2 {
+	opacity: 0.1;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 746px;
+	height: 283px;
+	left: 1113px;
+	top: 746px;
+}
+#Front_End_Developer__UI_UX_Des {
+	position: absolute;
+	left: 1146px;
+	top: 777px;
+	overflow: visible;
+	width: 293px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_3_x {
+	opacity: 0.13;
+}
+.Rectangle_3_x {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+#Path_1_z {
+	opacity: 0.21;
+}
+.Path_1_z {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#PorfolioTest1_snapshot {
+	animation: fadein 5s linear 0s infinite;
+	pointer-events: none;
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0;
+	top: 0;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 1;
+	}
+	37.5% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0;
+	}
+	87.5% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
